@@ -1,0 +1,55 @@
+{
+  "POO1": [
+    {
+      "name": "Patient1",
+      "city": "Delhi",
+      "age": 21,
+      "gender": "Male",
+      "height": 170,
+      "weight": 65,
+      "bmi": 22.5,
+      "verdict": "Normal"
+    },
+    {
+      "name": "Patient2",
+      "city": "Mumbai",
+      "age": 25,
+      "gender": "Female",
+      "height": 160,
+      "weight": 70,
+      "bmi": 27.3,
+      "verdict": "Overweight"
+    },
+    {
+      "name": "Patient3",
+      "city": "Kolkata",
+      "age": 30,
+      "gender": "Male",
+      "height": 175,
+      "weight": 85,
+      "bmi": 27.8,
+      "verdict": "Overweight"
+    },
+    {
+      "name": "Patient4",
+      "city": "Chennai",
+      "age": 28,
+      "gender": "Female",
+      "height": 155,
+      "weight": 50,
+      "bmi": 20.8,
+      "verdict": "Normal"
+    },
+    {
+      "name": "Patient5",
+      "city": "Bangalore",
+      "age": 35,
+      "gender": "Male",
+      "height": 180,
+      "weight": 95,
+      "bmi": 29.3,
+      "verdict": "Overweight"
+    }
+
+  ]
+}
