@@ -1,55 +1,203 @@
 {
-  "POO1": [
-    {
-      "name": "Patient1",
-      "city": "Delhi",
-      "age": 21,
-      "gender": "Male",
-      "height": 170,
-      "weight": 65,
-      "bmi": 22.5,
-      "verdict": "Normal"
-    },
-    {
-      "name": "Patient2",
-      "city": "Mumbai",
-      "age": 25,
-      "gender": "Female",
-      "height": 160,
-      "weight": 70,
-      "bmi": 27.3,
-      "verdict": "Overweight"
-    },
-    {
-      "name": "Patient3",
-      "city": "Kolkata",
-      "age": 30,
-      "gender": "Male",
-      "height": 175,
-      "weight": 85,
-      "bmi": 27.8,
-      "verdict": "Overweight"
-    },
-    {
-      "name": "Patient4",
-      "city": "Chennai",
-      "age": 28,
-      "gender": "Female",
-      "height": 155,
-      "weight": 50,
-      "bmi": 20.8,
-      "verdict": "Normal"
-    },
-    {
-      "name": "Patient5",
-      "city": "Bangalore",
-      "age": 35,
-      "gender": "Male",
-      "height": 180,
-      "weight": 95,
-      "bmi": 29.3,
-      "verdict": "Overweight"
-    }
+  "POO1": {
+    "name": "Aarav Sharma",
+    "city": "Delhi",
+    "age": 22,
+    "gender": "Male",
+    "height": 172,
+    "weight": 68,
+    "bmi": 23.0,
+    "verdict": "Normal"
+  },
+  "POO2": {
+    "name": "Vivaan Patel",
+    "city": "Mumbai",
+    "age": 25,
+    "gender": "Male",
+    "height": 175,
+    "weight": 78,
+    "bmi": 25.5,
+    "verdict": "Overweight"
+  },
+  "POO3": {
+    "name": "Aditya Verma",
+    "city": "Kolkata",
+    "age": 30,
+    "gender": "Male",
+    "height": 180,
+    "weight": 90,
+    "bmi": 27.8,
+    "verdict": "Overweight"
+  },
+  "POO4": {
+    "name": "Arjun Singh",
+    "city": "Chennai",
+    "age": 28,
+    "gender": "Male",
+    "height": 168,
+    "weight": 60,
+    "bmi": 21.3,
+    "verdict": "Normal"
+  },
+  "POO5": {
+    "name": "Reyansh Gupta",
+    "city": "Bangalore",
+    "age": 35,
+    "gender": "Male",
+    "height": 182,
+    "weight": 95,
+    "bmi": 28.7,
+    "verdict": "Overweight"
+  },
+  "POO6": {
+    "name": "Ishaan Mehta",
+    "city": "Hyderabad",
+    "age": 27,
+    "gender": "Male",
+    "height": 170,
+    "weight": 72,
+    "bmi": 24.9,
+    "verdict": "Normal"
+  },
+  "POO7": {
+    "name": "Kabir Khan",
+    "city": "Pune",
+    "age": 32,
+    "gender": "Male",
+    "height": 178,
+    "weight": 85,
+    "bmi": 26.8,
+    "verdict": "Overweight"
+  },
+  "POO8": {
+    "name": "Ananya Reddy",
+    "city": "Jaipur",
+    "age": 24,
+    "gender": "Female",
+    "height": 160,
+    "weight": 52,
+    "bmi": 20.3,
+    "verdict": "Normal"
+  },
+  "POO9": {
+    "name": "Diya Nair",
+    "city": "Lucknow",
+    "age": 29,
+    "gender": "Female",
+    "height": 158,
+    "weight": 65,
+    "bmi": 26.0,
+    "verdict": "Overweight"
+  },
+  "POO10": {
+    "name": "Saanvi Iyer",
+    "city": "Ahmedabad",
+    "age": 26,
+    "gender": "Female",
+    "height": 162,
+    "weight": 55,
+    "bmi": 21.0,
+    "verdict": "Normal"
+  },
 
-  ]
+  "POO11": {
+    "name": "Rohan Das",
+    "city": "Delhi",
+    "age": 31,
+    "gender": "Male",
+    "height": 176,
+    "weight": 88,
+    "bmi": 28.4,
+    "verdict": "Overweight"
+  },
+  "POO12": {
+    "name": "Meera Joshi",
+    "city": "Mumbai",
+    "age": 23,
+    "gender": "Female",
+    "height": 165,
+    "weight": 50,
+    "bmi": 18.4,
+    "verdict": "Underweight"
+  },
+  "POO13": {
+    "name": "Aryan Malhotra",
+    "city": "Kolkata",
+    "age": 34,
+    "gender": "Male",
+    "height": 174,
+    "weight": 82,
+    "bmi": 27.1,
+    "verdict": "Overweight"
+  },
+  "POO14": {
+    "name": "Kavya Pillai",
+    "city": "Chennai",
+    "age": 28,
+    "gender": "Female",
+    "height": 155,
+    "weight": 48,
+    "bmi": 20.0,
+    "verdict": "Normal"
+  },
+  "POO15": {
+    "name": "Devansh Rao",
+    "city": "Bangalore",
+    "age": 33,
+    "gender": "Male",
+    "height": 181,
+    "weight": 92,
+    "bmi": 28.1,
+    "verdict": "Overweight"
+  },
+  "POO16": {
+    "name": "Riya Kapoor",
+    "city": "Hyderabad",
+    "age": 24,
+    "gender": "Female",
+    "height": 159,
+    "weight": 54,
+    "bmi": 21.4,
+    "verdict": "Normal"
+  },
+  "POO17": {
+    "name": "Yash Thakur",
+    "city": "Pune",
+    "age": 29,
+    "gender": "Male",
+    "height": 177,
+    "weight": 80,
+    "bmi": 25.5,
+    "verdict": "Overweight"
+  },
+  "POO18": {
+    "name": "Sneha Bansal",
+    "city": "Jaipur",
+    "age": 27,
+    "gender": "Female",
+    "height": 163,
+    "weight": 58,
+    "bmi": 21.8,
+    "verdict": "Normal"
+  },
+  "POO19": {
+    "name": "Harsh Vardhan",
+    "city": "Lucknow",
+    "age": 36,
+    "gender": "Male",
+    "height": 179,
+    "weight": 97,
+    "bmi": 30.3,
+    "verdict": "Obese"
+  },
+  "POO20": {
+    "name": "Priya Menon",
+    "city": "Ahmedabad",
+    "age": 26,
+    "gender": "Female",
+    "height": 161,
+    "weight": 49,
+    "bmi": 18.9,
+    "verdict": "Normal"
+  }
 }
